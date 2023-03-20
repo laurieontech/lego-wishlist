@@ -2,9 +2,6 @@
 As presented for Tech Skills Day
 Repo created with CodeSandbox
 
-## Running the project
-
-
 ## [Rebrickable API](https://rebrickable.com/api/v3/docs/?key=0c63c509a98ed0afe5dfb6730310b8cb)
 
 To run this project you'll need to replace the keys in the services.js file.
